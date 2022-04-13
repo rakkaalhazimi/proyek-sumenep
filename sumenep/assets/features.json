@@ -1,0 +1,14 @@
+{
+    "MENGGUNAKAN KB": ["N", "T", "Y"],
+    "PERSALINAN DI FASKES": ["N", "Y"],
+    "ASI EKSLUSIF": ["N", "Y"],
+    "IMUNISASI LENGKAP": ["N", "Y"],
+    "PEMANTAUAN PERTUMBUHAN BALITA": ["N", "T", "Y"],
+    "MINUM OBAT TB TERATUR": ["N", "T", "Y"],
+    "ART MINUM OBAT GANGGUAN JIWA BERAT TERATUR": ["N", "Y"],
+    "MINUM OBAT HIPERTENSI TERATUR": ["N", "T", "Y"],
+    "MEROKOK": ["N", "T", "Y"],
+    "TERSEDIA SARANA AIR BERSIH": ["T", "Y"],
+    "TERSEDIA JAMBAN KELUARGA": ["T", "Y"],
+    "KEPESERTAAN JKN": ["N", "T", "Y"]
+}
