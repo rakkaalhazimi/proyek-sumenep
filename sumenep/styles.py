@@ -38,3 +38,7 @@ def set_style():
             }
         </style>
         """, unsafe_allow_html=True)
+
+
+def label_color(label):
+    return
