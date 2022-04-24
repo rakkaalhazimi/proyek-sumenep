@@ -16,20 +16,21 @@ def view_dashboard():
 def view_form():
     st.subheader("Prediksi Status Kesehatan Keluarga")
 
+    # Load features from json
     features_json = load_features()
     feature_len = len(features_json)
+
+    # Dict to stores user input
     features_user = {}
 
+    # Create features form
     with st.form("Feature"):
         col1, col2 = st.columns([6, 6])
-
         for index, (feature_name, values) in enumerate(features_json.items()):
             used_col = col1 if index < feature_len // 2 else col2
-
             with used_col:
                 option = st.selectbox(label=feature_name, options=values)
                 features_user[feature_name] = option
-
         is_submit = st.form_submit_button(label="Submit")
     
     if is_submit:
