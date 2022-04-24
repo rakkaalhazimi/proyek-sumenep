@@ -1,12 +1,13 @@
 import streamlit as st
 st.set_page_config(layout="wide")
 
-from views import view_dashboard, view_form
+from views import view_dashboard, view_form, view_eda
 from styles import set_style
 
 PAGES = {
     "Dashboard": view_dashboard,
     "Prediksi": view_form,
+    "EDA": view_eda,
 }
 
 def change_page(page):

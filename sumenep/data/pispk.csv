@@ -1,0 +1,499 @@
+NAMA KK,MENGGUNAKAN KB,PERSALINAN DI FASKES,ASI EKSLUSIF,IMUNISASI LENGKAP,PEMANTAUAN PERTUMBUHAN BALITA,MINUM OBAT TB TERATUR,MINUM OBAT HIPERTENSI TERATUR,ART MINUM OBAT GANGGUAN JIWA BERAT TERATUR,MEROKOK,TERSEDIA SARANA AIR BERSIH,TERSEDIA JAMBAN KELUARGA,KEPESERTAAN JKN,IKS INTI,Kesehatan Keluarga,Kesehatan Keluarga Label
+HERMANTO,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+AMZA,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+MOH. YUSUF,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+HANAFI,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+NOR HASAN,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MURATAP,N,N,N,N,N,N,T,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+M. BARRI,N,N,N,N,N,N,N,N,T,Y,Y,T,0.75,Keluarga Pra-Sehat,0
+MULAWI,N,N,N,N,Y,N,Y,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+A. SYAMSI,N,Y,N,N,Y,N,N,N,T,Y,Y,T,0.83,Keluarga Sehat,1
+SUBAIDI,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+HABIBULLAH,T,N,N,Y,N,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+EDI ANOM,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+LUTHFI,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SARMANA,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+MATLUKI,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MOH. ZAINI,N,Y,Y,N,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+MUJAMI,T,N,N,N,N,N,N,N,T,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+SANINTI,N,N,N,N,N,N,T,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SATRANI,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+MOH. SURAH,N,N,N,N,T,N,Y,N,T,T,Y,Y,0.6,Keluarga Pra-Sehat,0
+ALI MAKKI,N,N,N,N,N,N,N,N,T,Y,Y,T,0.75,Keluarga Pra-Sehat,0
+NAWAWI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+ESSA,N,N,N,N,N,N,T,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+KHAZIN,N,N,N,N,N,N,N,N,T,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+MUH. IHSAN,N,N,N,N,Y,N,N,N,Y,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+ESSAT,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+M. HASIBUDDIN IHSAN,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,0.83,Keluarga Sehat,1
+MOHAMMAD MALI,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+SAKDUKI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MATRA'E,N,N,N,N,N,N,T,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+MOH MISNATO,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MASTURYONO,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MOH. JA'IB,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MOH. SYAMSUL,N,N,N,N,N,N,T,N,Y,Y,T,T,0.2,Keluarga Tidak Sehat,2
+BURIDI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+HAMIDAH,N,N,N,N,N,N,N,N,T,Y,T,T,0.4,Keluarga Tidak Sehat,2
+ABD. SYUKUR,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+ABD. RASYID,N,N,N,N,N,N,T,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+HODRI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.2,Keluarga Tidak Sehat,2
+AHMAT SAHIR,N,N,N,N,N,N,T,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+SAHRAWI,N,N,N,N,N,N,T,N,Y,Y,Y,T,0.2,Keluarga Tidak Sehat,2
+AMIRUDDIN,N,N,N,N,N,N,T,N,Y,Y,Y,Y,0.33,Keluarga Tidak Sehat,2
+ACH. JAUHARI,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+ISHAQ,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+MUNSIL,T,N,N,N,N,N,Y,N,Y,Y,T,T,0.33,Keluarga Tidak Sehat,2
+HATAB,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.2,Keluarga Tidak Sehat,2
+M. AMIN,N,N,N,N,T,N,N,N,Y,Y,T,T,0.2,Keluarga Tidak Sehat,2
+ASASY'ARI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+M. HAYAT,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+FATHORRAHMAN,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+P. SAHA,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.0,Keluarga Tidak Sehat,2
+SALAMA,N,N,N,N,N,N,N,N,T,Y,Y,T,0.25,Keluarga Tidak Sehat,2
+WAKI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MISTARUM,N,N,N,N,N,N,N,N,T,Y,T,T,0.25,Keluarga Tidak Sehat,2
+ABU SINAM,T,N,N,N,T,N,N,N,Y,Y,Y,Y,0.33,Keluarga Tidak Sehat,2
+AS'ADI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+RUSDI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+HAMDI,N,N,N,N,N,N,Y,Y,T,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+HOYYIMAH,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+BAIHAQI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+A. SUTRISNO,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+LUTFIYANTO,N,N,N,N,T,N,N,N,T,Y,T,T,0.4,Keluarga Tidak Sehat,2
+A. HADIRI,N,N,N,N,N,N,N,N,Y,T,T,T,0.25,Keluarga Tidak Sehat,2
+MUHAMMAD ZUHRI,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+MUKHALIS,Y,N,N,N,N,N,N,N,Y,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+BUDIYONO,N,N,N,N,N,N,Y,N,T,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+ABD. HANNAN,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+AHMAD BAKKRI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+IBNIYATI,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+MOH. AMZA,N,N,N,N,N,N,Y,N,Y,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+SUBAHRI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+ACH. ZUBAIDI,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+MOH. ASUM,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+HAMISAH,T,N,N,N,N,N,N,N,T,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+BUSTAMI,N,N,N,N,N,N,N,N,T,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+SUKI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+M. RASIT,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+AINUL YAQIN,N,N,N,N,N,N,Y,N,Y,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+ABD. HAQ,N,N,N,N,Y,N,N,N,T,Y,Y,T,0.67,Keluarga Pra-Sehat,0
+MOH. RUSLI FAKKAR,N,N,N,N,Y,N,N,N,Y,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+RAJAWI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+BULLA,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+NOER ASY'ARI,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SYAFI'UDDIN,T,N,N,N,Y,N,N,N,T,Y,T,Y,0.83,Keluarga Sehat,1
+HONNAINAH,N,N,N,N,N,N,T,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SAJADIN,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+M. BAKIR,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+FANNAH,T,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+HADIRI,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SIDAH,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+PUSINTI,N,N,N,N,N,Y,N,N,T,Y,Y,T,0.8,Keluarga Pra-Sehat,0
+ZAINUL HASAN,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+NASIRAH,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+MATRAWI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+HASANUDDIN,N,N,N,N,N,N,Y,N,T,Y,Y,T,0.8,Keluarga Pra-Sehat,0
+SADILI,N,N,N,N,Y,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+RASIDI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+SAPRAJI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+FAHMI NUR,N,N,N,N,Y,N,N,N,T,Y,Y,T,0.8,Keluarga Pra-Sehat,0
+SINAP,N,N,N,N,N,N,Y,N,T,Y,Y,T,0.8,Keluarga Pra-Sehat,0
+MOHRI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ZAMHARI,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+ABD. RAHMAN,Y,N,N,N,N,N,N,N,Y,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+MISARI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ABD. RAHEM,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+NURUDDIN,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+RUDI PATMUJI WIDODO,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SUTIHAH,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MODI,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+ASLI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+SAHAWI,T,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SUBLI YANTO,N,N,N,N,N,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SIMANI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ADE CHANDRA KURNIAWAN,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+NUR LAILA,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+KAMILAH,T,N,N,N,N,N,N,N,Y,Y,T,T,0.33,Keluarga Tidak Sehat,2
+MUHEDDIN,N,N,N,N,N,N,Y,N,T,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+ZAINAL ABIDIN,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+KHAIRUL ANAM,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+SOMARATI,N,N,N,N,N,N,N,N,T,Y,T,T,0.4,Keluarga Tidak Sehat,2
+MUHATIP,N,N,N,N,N,N,N,N,Y,Y,T,T,0.25,Keluarga Tidak Sehat,2
+TABRI,N,N,N,N,N,N,N,N,Y,Y,T,T,0.25,Keluarga Tidak Sehat,2
+ABD. RA'UF,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+ABD. RAQIB,N,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MUNI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MOH. DA'IE,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+YATIM,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MUSLEH,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+FAUZAN,T,N,N,N,N,N,N,N,Y,Y,T,T,0.4,Keluarga Tidak Sehat,2
+SUNI,T,N,N,N,N,N,T,N,Y,Y,T,Y,0.33,Keluarga Tidak Sehat,2
+THOMAH,N,N,N,N,N,N,T,N,Y,Y,T,Y,0.4,Keluarga Tidak Sehat,2
+MASTUR,N,N,N,N,Y,N,N,N,Y,Y,T,T,0.33,Keluarga Tidak Sehat,2
+AHMAD GHAZALI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+JAMAL,N,N,N,N,N,N,N,N,Y,Y,T,T,0.25,Keluarga Tidak Sehat,2
+MOH. TAHIR,N,N,N,N,N,N,T,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+UMAR,N,N,N,N,N,N,T,N,Y,Y,Y,Y,0.33,Keluarga Tidak Sehat,2
+MUNISAP,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+JAMALUDDIN,T,N,N,N,N,N,N,N,Y,Y,T,Y,0.33,Keluarga Tidak Sehat,2
+MOH. IMAM THOHIR,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,0.83,Keluarga Sehat,1
+SHALEH,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+MUHAMMAD SAHUN,N,N,N,N,N,Y,Y,Y,T,T,Y,Y,0.86,Keluarga Sehat,1
+FATHOR ROHIM,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+RAMLI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+HATIBI AS,N,N,N,N,N,N,Y,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+SATI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MARIYAH,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MISTARI,N,N,N,N,N,N,Y,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MOH. DAHLAN,N,N,Y,Y,Y,N,N,N,T,Y,T,T,0.86,Keluarga Sehat,1
+MOH. RAMLI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+AMIR FAISOL,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+NAMI,N,N,N,N,N,N,N,N,T,T,T,Y,1.0,Keluarga Sehat,1
+SUNAWI,N,N,N,N,N,N,Y,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+MAIMUNATUN,N,N,N,N,N,N,N,N,T,Y,T,Y,1.0,Keluarga Sehat,1
+RIFKIYAH,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MANISA,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+JUNAIDI,Y,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.89,Keluarga Sehat,1
+SURI'A,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ZAKIYAH,Y,N,Y,Y,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ABDUS SALAM,Y,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+RUKMA,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ISMAEL,N,N,Y,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+HAMDANI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+AHMAD JUMSI,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MAIMUNAH,N,N,N,N,N,N,Y,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+HELMI,N,N,N,N,N,N,Y,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+MUALIMIN,N,N,N,N,N,N,Y,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ERFAN,Y,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+ROSYIDI,Y,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.89,Keluarga Sehat,1
+MUHANI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+LAMSIH P.SUHRAWI,N,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+YASIRUDDIN,Y,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+YAGIN,Y,N,N,N,N,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+M. AZIS ABAS,Y,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+SUJARIN,Y,N,N,N,N,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+SAMODDIN,N,N,N,N,N,N,N,Y,Y,Y,T,T,0.4,Keluarga Tidak Sehat,2
+FAHRURROZI,T,N,N,N,N,N,N,Y,Y,Y,T,Y,0.3,Keluarga Tidak Sehat,2
+ADNAN,T,N,N,N,N,N,N,Y,Y,Y,T,T,0.43,Keluarga Tidak Sehat,2
+MAHBUB,N,N,N,N,N,N,N,Y,Y,Y,T,T,0.6,Keluarga Pra-Sehat,0
+SAMOYAN,N,N,N,N,N,N,Y,Y,Y,T,T,T,0.67,Keluarga Pra-Sehat,0
+JATIM,N,N,N,N,N,T,N,Y,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+MOHAMMAD TIPYAN,T,N,N,N,N,N,N,Y,T,Y,Y,T,0.67,Keluarga Pra-Sehat,0
+SHADIQ B,N,N,N,N,N,N,N,Y,Y,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+SOFIYAH,N,N,N,N,N,N,N,Y,T,Y,Y,T,0.8,Keluarga Pra-Sehat,0
+UMMIYAH,N,N,N,N,N,N,N,Y,T,T,T,Y,0.6,Keluarga Pra-Sehat,0
+KHALIFI,T,N,N,N,N,N,N,Y,Y,T,T,T,0.5,Keluarga Pra-Sehat,0
+ABD. HAFIDH,Y,N,N,N,N,N,N,Y,T,Y,Y,Y,1.0,Keluarga Sehat,1
+A. JAMALI,N,N,N,N,N,N,N,Y,T,Y,Y,Y,1.0,Keluarga Sehat,1
+SAHIDI,N,N,N,N,Y,N,N,Y,T,Y,Y,T,0.83,Keluarga Sehat,1
+MAULIDI,N,Y,Y,N,Y,N,N,Y,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MUDAKKIR,N,N,N,N,Y,N,N,Y,T,T,T,T,0.83,Keluarga Sehat,1
+JAZULI,N,N,N,N,N,N,N,T,T,Y,T,T,0.6,Keluarga Pra-Sehat,0
+ROMLAH,N,N,N,N,N,N,N,T,T,Y,T,T,0.5,Keluarga Pra-Sehat,0
+ATMIATI,N,N,N,N,N,N,N,T,T,Y,Y,Y,0.67,Keluarga Pra-Sehat,0
+MOH. SHALEH,N,N,N,N,N,N,N,T,T,Y,T,T,0.6,Keluarga Pra-Sehat,0
+ARBA'IE,N,N,N,N,N,N,N,T,T,Y,Y,Y,0.67,Keluarga Pra-Sehat,0
+M SALE.,N,N,N,N,N,N,N,T,T,Y,T,T,0.5,Keluarga Pra-Sehat,0
+MOH. TAYYIB,N,N,N,N,N,N,N,T,T,Y,T,T,0.6,Keluarga Pra-Sehat,0
+MAIMUN,N,N,N,N,Y,N,N,N,Y,Y,Y,Y,0.33,Keluarga Tidak Sehat,2
+ANAS RULLAH,N,N,T,T,Y,N,N,N,Y,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+MASHURI,N,N,Y,T,T,N,N,N,Y,Y,Y,Y,0.43,Keluarga Tidak Sehat,2
+ABBASI,N,N,T,T,Y,N,N,N,T,Y,Y,Y,0.43,Keluarga Tidak Sehat,2
+IRSAN,N,N,T,T,T,N,N,N,Y,Y,Y,T,0.25,Keluarga Tidak Sehat,2
+SUNARTO,N,N,T,T,Y,N,N,N,T,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+SATURI,N,N,Y,T,T,N,N,N,Y,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+UBAIDILLAH,N,N,Y,T,T,N,N,N,Y,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+MOH. MISTUR,Y,N,T,T,T,N,N,N,Y,Y,Y,Y,0.38,Keluarga Tidak Sehat,2
+MATHLUB,N,N,T,T,T,N,N,N,T,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+ACH. YAZID,T,N,T,T,T,N,N,N,T,Y,Y,T,0.38,Keluarga Tidak Sehat,2
+HOIRUDDIN,N,N,T,T,T,N,N,N,T,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+MOH. DAHLAL,N,N,Y,T,T,N,N,N,Y,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+ACH. SAHRI,T,N,Y,T,Y,N,N,N,Y,Y,Y,Y,0.44,Keluarga Tidak Sehat,2
+SHABARI,N,N,T,T,T,N,N,N,T,Y,Y,Y,0.43,Keluarga Tidak Sehat,2
+MULYADI,N,N,T,T,T,N,N,N,Y,Y,Y,Y,0.29,Keluarga Tidak Sehat,2
+LUQMAN HAKIM,T,N,T,T,Y,N,N,N,Y,Y,Y,Y,0.44,Keluarga Tidak Sehat,2
+SAHLAN,N,N,Y,T,Y,N,N,N,T,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+HATIMAH,N,N,Y,T,Y,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+A'LAL AFIF,N,N,Y,T,Y,N,N,N,T,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+ISNAN,T,N,Y,T,Y,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+SAIFURRAHMAN,N,N,Y,T,Y,N,N,N,T,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+HAINUDDIN,T,N,Y,T,Y,N,N,N,T,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+HAFI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+NOVIL LIUSMAN MA RUF,N,N,Y,T,Y,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+HENDRI,T,N,Y,T,Y,N,N,N,T,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+KHAIRUR ROZI,N,N,Y,T,Y,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+ABD. MUHSHI,N,Y,Y,T,Y,N,N,N,Y,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+AHMAD SU'AIDI,T,N,Y,T,Y,N,N,N,T,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+EDI HERIYANTO,N,N,Y,T,Y,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+AHMAD FAISAL,N,N,Y,T,Y,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+MUHSIN ZAINIY,N,N,Y,T,T,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+MOHAMMAD SARIF,T,N,Y,T,Y,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+MOH ANSORI ZAIN,N,N,Y,T,Y,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MUHLIS,N,N,Y,T,Y,N,N,N,T,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+SUDIRMAN,T,N,Y,T,Y,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+FAZLUR RAHMAN,N,N,Y,T,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MIFTAHUL WALID,T,N,Y,T,Y,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+IMAM GHAZALI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.86,Keluarga Sehat,1
+ZUBAIDI,N,N,Y,Y,Y,Y,N,N,T,Y,Y,Y,0.88,Keluarga Sehat,1
+FATHOR ROSI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+SUHRI,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+ABUL,N,N,Y,Y,Y,N,Y,N,T,Y,Y,Y,0.88,Keluarga Sehat,1
+ROYHAN SAIDI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.86,Keluarga Sehat,1
+MOH. SHOLEHODDIN,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+SYAMSUL HAIRUKI,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+BAIDA' IE,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.88,Keluarga Sehat,1
+MUSLIM,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+A. ZAMLI,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+MOH. FATHAN,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.88,Keluarga Sehat,1
+HALILI,N,N,N,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+HUSNUL ARIFIN,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ZAINI SHALEH,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+BAIHAKI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+JULAIHA,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MUHAMMAD,N,N,Y,Y,Y,N,N,N,T,Y,T,T,0.86,Keluarga Sehat,1
+AKIS,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+ACH. BAIDI,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+MOH. JUNAIDI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+ACHMAD NURULLAH,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.88,Keluarga Sehat,1
+MUSAMMA,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.88,Keluarga Sehat,1
+MAHSUN,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+HEKAM,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+AHMAD YULIANTO,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+ZAINUR ANAS KEMBARA,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+ABUL KHAIR,N,N,Y,Y,Y,N,N,N,T,Y,T,Y,0.86,Keluarga Sehat,1
+ACH. FAISOL,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.86,Keluarga Sehat,1
+AHMAD KHORIRI,N,N,Y,Y,Y,N,N,N,T,Y,T,Y,0.86,Keluarga Sehat,1
+NAUFAL,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+ROFI'IE,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+RUSPANDI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+MAJDI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+MUHAMMAD ATHO'ILLAH,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+GHOZIE RAHMAN,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+ABDUL HAFI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.86,Keluarga Sehat,1
+DUSUN BATUJARAN,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+MUALLIM,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,0.88,Keluarga Sehat,1
+ABD. HASIS,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+FADLAN,N,N,N,Y,Y,N,N,N,T,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MOH. SUBHAN,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+A. TAHMIDI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+MUSAHWI,N,N,T,Y,Y,N,N,N,T,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+AHMAD AFANDI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+ABD. SYAKUR,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MUZANNI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+MUSTHAFA S,N,N,T,Y,Y,N,N,N,T,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MOH. SAJJAD,T,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+SHALEHODDIN,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MOH. RAJI,N,N,Y,Y,T,N,N,N,T,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MOH KHOSNI,T,N,Y,Y,Y,N,N,N,Y,Y,T,Y,0.63,Keluarga Pra-Sehat,0
+ILYAS RISMA,T,N,T,Y,Y,N,N,N,T,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+M. KHATIB,N,N,T,Y,Y,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+ABD. HAFI,N,N,T,Y,Y,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MOH. ZARI,T,N,Y,Y,T,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+ALI WAFA,T,N,T,Y,Y,N,N,N,T,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+JAMALI,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+SUJA'I,T,N,T,Y,Y,Y,Y,N,T,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MUHAMMAD RAMLI,N,N,Y,Y,Y,N,N,N,Y,Y,T,T,0.71,Keluarga Pra-Sehat,0
+MOH.NIHAR,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+SLAMET WAHYUDI,N,N,T,Y,Y,N,N,N,T,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+ABD. BAHAR,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+M. SYAIFUL BAHRI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+AHMAD FAUZI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+DULMAWI,N,N,Y,Y,Y,T,N,N,T,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+TOLI,T,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+MURATIP,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+ACH. ABROR,T,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+SUAMI,N,N,T,Y,Y,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+MOH. MISYAR,N,N,T,Y,T,N,N,N,T,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+FIRDAUS,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+WASULULLAH,N,N,T,Y,Y,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+ABDUR RAHIEM ACHMAD,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+MUSDI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+MOH. HIDAYATULLAH,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+NURHALIS,T,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+MASTURAH,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+ALFAN JAMIL,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MISTO,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+ACH. BUKHARI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+KHALILULLAH,T,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+SANIDIN,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+TIRMIDZI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+ROFIQI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+ZAINOLLAH,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+MUNTASIR,N,N,Y,Y,Y,N,N,N,Y,Y,T,T,0.71,Keluarga Pra-Sehat,0
+MOHARI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MUDAIFI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+SUBLIYANTO,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MOHAMMAD SYARIF,T,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+MOH. RASIDI,T,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+SUNADI,Y,N,Y,Y,Y,N,N,N,Y,Y,T,Y,0.5,Keluarga Pra-Sehat,0
+AFRIZAL YUSUP SANTOSO,N,Y,T,Y,Y,N,N,N,Y,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+RAPIK,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+M. ROFI'IE,N,N,T,Y,Y,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+KHOIRIL ANWAR,N,N,T,Y,Y,N,N,N,T,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+MU'EIS,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.75,Keluarga Pra-Sehat,0
+FAWAID,N,N,Y,Y,Y,N,Y,N,Y,Y,Y,Y,0.75,Keluarga Pra-Sehat,0
+YANTO,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+HAFIDI,N,N,T,Y,Y,N,N,N,T,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+RASUNI,N,N,Y,Y,Y,N,Y,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+SAKUR,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+SYAIFUL UMAM,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MASYHUDI,N,N,Y,Y,Y,N,N,N,Y,Y,T,Y,0.57,Keluarga Pra-Sehat,0
+ACHMAD TIJANI,T,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.75,Keluarga Pra-Sehat,0
+M. ARIFURRAHMAN,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+ARIFIN,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+INSANUL AMAL,N,N,Y,Y,T,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+ABD. GHAFFAR,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+SUNDARI,T,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.75,Keluarga Pra-Sehat,0
+HASBULLAH,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+FATMAWATI,T,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.75,Keluarga Pra-Sehat,0
+RAHMAT HIDAYAT,N,N,Y,Y,Y,N,T,N,Y,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+MUHAMMAD RAIB,Y,Y,T,Y,Y,N,N,N,Y,Y,Y,Y,0.67,Keluarga Pra-Sehat,0
+ABD. MUHDI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+ABUL HASAN,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+SYAMSUL ARIFIN,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.63,Keluarga Pra-Sehat,0
+ABDULLAH M,N,N,Y,Y,T,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+MUZAKKI,N,N,Y,Y,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+TAUFIQURRAHMAN,N,N,Y,Y,Y,N,N,N,T,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+ASNAWI,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.63,Keluarga Pra-Sehat,0
+ABD. WARITS,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+HOSNIYANTO,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+ACH. ZAINI,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+AHMAD,N,N,Y,Y,Y,N,N,N,T,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MOH. FAUZI,N,N,Y,Y,T,N,T,N,Y,Y,Y,T,0.38,Keluarga Tidak Sehat,2
+MUHAMMAD HOLID,N,N,Y,Y,N,N,N,N,T,Y,Y,Y,0.44,Keluarga Tidak Sehat,2
+NOER HASAN,N,N,T,Y,T,N,N,N,Y,Y,Y,Y,0.43,Keluarga Tidak Sehat,2
+IDRIS,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+NAJMUL HIDAYAT,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+HAFIFI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+SALAMET,N,N,N,N,T,N,N,N,Y,Y,T,T,0.2,Keluarga Tidak Sehat,2
+MUNADI,T,N,N,N,T,N,N,N,T,Y,Y,T,0.43,Keluarga Tidak Sehat,2
+BATI,N,N,N,N,T,N,N,N,Y,Y,T,Y,0.2,Keluarga Tidak Sehat,2
+JATEM,N,N,N,N,T,N,N,N,Y,Y,T,T,0.2,Keluarga Tidak Sehat,2
+SU'ODI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+ANWARI,T,N,N,N,N,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MUJTABA ROMDAN,T,N,N,N,T,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+BADRUS SALAM,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+SURAHWI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MOH. HAIDIR ALI,N,N,N,N,T,N,N,N,Y,Y,T,T,0.4,Keluarga Tidak Sehat,2
+ABD. AZIZ,T,N,N,N,N,N,N,N,Y,Y,Y,Y,0.33,Keluarga Tidak Sehat,2
+ZAINUL UMAM,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+SYAKIR,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+SUNARDI,T,N,N,N,Y,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+MUNIR,N,N,N,N,T,N,T,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+AHMAD BUSYAIRI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+HOZAINI,T,N,N,N,T,N,N,N,Y,Y,Y,Y,0.33,Keluarga Tidak Sehat,2
+SUMOTO,T,N,N,N,T,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+M. ERFAN EFENDI,N,N,N,N,T,N,N,N,Y,Y,T,T,0.33,Keluarga Tidak Sehat,2
+SUTRISNO,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+KHOLID SS,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+MOH. HASIN,N,N,N,N,T,N,T,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+JUZRA'IE,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+ABD MAWI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+MUHDAR,N,N,N,N,N,N,N,N,Y,Y,T,T,0.29,Keluarga Tidak Sehat,2
+SAMSUL ARIFIN,T,N,N,N,T,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+MOH. HALIS,N,N,N,N,T,N,N,N,T,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+MOH. ROFIQI,T,N,N,N,T,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+ACH. SYAIFULLAH,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+ZAHIRUDDIN,N,N,N,N,T,N,N,N,Y,Y,T,T,0.2,Keluarga Tidak Sehat,2
+MOH. IKHSAN,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+SUBAIRI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.2,Keluarga Tidak Sehat,2
+SYAOHOL ANAM,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+M. BAHRI,N,N,N,N,N,N,N,N,T,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+ASSARI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+SA'DI,N,N,N,N,T,N,T,N,T,Y,T,T,0.33,Keluarga Tidak Sehat,2
+SYUFA'IE,Y,N,N,N,T,N,N,N,T,T,T,T,0.33,Keluarga Tidak Sehat,2
+BAHRI,T,N,N,N,T,N,N,N,Y,Y,Y,T,0.33,Keluarga Tidak Sehat,2
+BAIDAWI,T,N,N,N,T,N,N,N,Y,Y,Y,Y,0.33,Keluarga Tidak Sehat,2
+HAMIM,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.4,Keluarga Tidak Sehat,2
+HOSNAN,Y,N,N,N,N,N,N,N,Y,Y,T,Y,0.4,Keluarga Tidak Sehat,2
+ABD. MOQI,N,N,N,N,T,N,N,N,Y,Y,Y,T,0.4,Keluarga Tidak Sehat,2
+M. SHODIQ,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+FATHOR RAHMAN,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+HORRADI,N,T,N,N,T,N,N,N,T,T,Y,T,0.5,Keluarga Pra-Sehat,0
+MOHAMMAD TAMMIN,N,Y,Y,N,T,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+HIDAYATI,N,N,N,N,T,N,N,N,T,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+SUTIYAH,N,N,N,N,T,N,N,N,T,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+KHAIRUDDIN,T,Y,N,N,T,N,Y,N,Y,Y,Y,Y,0.67,Keluarga Pra-Sehat,0
+MIFTAKUL MUNIR,N,N,N,N,T,N,N,N,T,Y,Y,Y,0.8,Keluarga Pra-Sehat,0
+HARYONO,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MURTADLI,T,N,N,N,T,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+JASULI,T,N,N,N,T,N,N,N,T,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+MOH. MUTHHAR,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MOH. DHAFIR,N,Y,Y,N,T,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+RIYANTO,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MOH. HAMDI,N,N,N,N,T,N,N,N,T,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+M. RO'IS,T,N,N,N,T,N,N,N,T,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+ZUBAIRI,N,N,N,N,T,N,N,N,T,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MOH. NASURAH P. ULFATUN,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+RUMMIYATI,N,N,N,N,T,N,N,N,T,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+AHMADI,N,N,N,N,Y,N,N,N,Y,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+MOHAMMAD HALIS,N,N,N,N,T,Y,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+ABD. KHALIK,N,N,N,N,T,N,T,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+MOH. QUSHOY ADNANI,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MISBAHOL KHAIR,Y,N,N,N,T,N,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+NURUR RAHMAN,N,N,N,N,T,T,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+KHAIRUL SALEH,T,N,N,N,T,N,N,N,T,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+NURUS SAMSI,T,N,N,N,T,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+MOH. KHOLIL DA'IE,N,N,N,N,T,N,Y,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+ABD. HAMID,N,Y,Y,N,T,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+ACH. RASUL,Y,N,N,N,T,N,N,N,T,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MOH. ALI MUKHTAR,T,N,N,N,T,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+A. ZAINI AR,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+ABD. WAHID,T,N,N,N,T,N,N,N,T,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+JAILANI,N,N,N,N,T,N,N,N,T,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+KHALIS,Y,N,N,N,N,N,N,N,Y,Y,Y,T,0.6,Keluarga Pra-Sehat,0
+HABIBATURAHMAN,N,N,N,N,T,N,N,N,Y,Y,Y,Y,0.6,Keluarga Pra-Sehat,0
+MOH. ROZAN,N,Y,Y,N,T,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MOH. MAHFUDZ,N,N,N,N,T,N,N,N,T,Y,T,Y,0.8,Keluarga Pra-Sehat,0
+UMMAYYANAH,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ZAINUR RAHMAN,Y,N,N,N,Y,Y,Y,N,Y,Y,Y,Y,0.88,Keluarga Sehat,1
+MOH.SUBAIDI,Y,N,N,N,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+IMAM,N,N,N,N,Y,N,Y,N,Y,Y,Y,Y,0.83,Keluarga Sehat,1
+SITI ZAITUNAH,N,N,Y,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+MOHAMMAD YASIN,N,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+NAILURRAHMAN,Y,N,N,N,Y,N,N,N,Y,Y,Y,Y,0.83,Keluarga Sehat,1
+SUPARNO,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+SABRI,N,N,N,N,Y,N,Y,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+RAFIUDDIN,N,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+ANSHARI,N,N,N,N,Y,N,Y,N,T,Y,Y,T,0.83,Keluarga Sehat,1
+MOH. SYAFI',N,N,N,N,N,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+KIRMAN TOHIRI,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MOH. ERFAN,Y,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+M. MUSHLIH,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+AHMAD ROSI,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+KHAIRIL ANWAR,Y,N,N,N,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+ZANNI,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ACH. FADHALI,N,Y,Y,N,Y,N,N,N,T,Y,Y,Y,0.86,Keluarga Sehat,1
+SYAKIR NI'AM,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+ACH. HAMIDI,Y,N,N,N,Y,N,N,N,Y,Y,Y,Y,0.83,Keluarga Sehat,1
+MUHAMMAD NASIRUDDIN,T,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+MAD HADIST,N,N,N,N,Y,N,Y,N,T,Y,Y,T,0.83,Keluarga Sehat,1
+MUAMMAR,N,Y,Y,N,Y,N,N,N,T,Y,Y,T,0.86,Keluarga Sehat,1
+ABDUL MUKIB,N,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+ABD RAHMAN,N,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+SUPARDI,Y,N,N,N,Y,N,N,N,T,Y,Y,T,0.83,Keluarga Sehat,1
+IWAN KUSWANDI,N,Y,Y,N,Y,N,N,N,T,Y,Y,Y,0.88,Keluarga Sehat,1
+MOHAMMAD HASBI,N,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+HUSNI,T,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+WAKIT,N,N,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+M. AS'ADI RAZAK K,N,N,N,N,Y,N,Y,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+MAHMUDI,N,N,N,N,Y,N,N,N,T,Y,Y,Y,0.83,Keluarga Sehat,1
+MOH. HARITS,Y,N,N,N,Y,N,N,N,Y,Y,Y,Y,0.83,Keluarga Sehat,1
+FARUQ,N,Y,N,N,Y,N,N,N,T,Y,Y,Y,1.0,Keluarga Sehat,1
+MASTURI,Y,N,N,N,Y,N,N,N,T,Y,Y,T,0.83,Keluarga Sehat,1
+ERNI FITRIYANI,N,N,T,N,Y,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+MOH. AMIN,Y,N,T,N,Y,N,N,N,T,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+MUSTI AH,T,N,T,N,Y,N,N,N,T,Y,Y,Y,0.71,Keluarga Pra-Sehat,0
+HASI,N,N,N,N,N,N,N,N,Y,Y,Y,Y,0.5,Keluarga Pra-Sehat,0
+HALISI,N,N,T,Y,Y,T,N,N,Y,Y,Y,T,0.5,Keluarga Pra-Sehat,0
+MOH. AINI EFENDI,N,N,T,Y,Y,N,N,N,Y,Y,Y,Y,0.57,Keluarga Pra-Sehat,0
+IDRUS SYAMSI,N,Y,Y,N,Y,N,N,N,Y,Y,Y,Y,0.86,Keluarga Sehat,1
+UDI,N,N,Y,N,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+MOH. HASAN,T,N,Y,N,Y,N,N,N,T,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+MOHAMMAD RIDWAN,N,Y,Y,N,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+MOH. HADI,N,Y,N,N,N,N,N,N,Y,Y,Y,T,0.57,Keluarga Pra-Sehat,0
+SULLAM,Y,Y,Y,N,Y,N,N,N,Y,Y,T,Y,0.63,Keluarga Pra-Sehat,0
+NURIS SALAM,N,Y,Y,N,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0
+NOER HALIMAH,N,N,Y,N,Y,N,N,N,Y,Y,Y,Y,0.67,Keluarga Pra-Sehat,0
+ZAINI ERFAN,N,Y,Y,N,Y,N,N,N,Y,Y,Y,T,0.71,Keluarga Pra-Sehat,0

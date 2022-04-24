@@ -11,3 +11,7 @@ def predict(features):
     classes = label_encoder.classes_
 
     return label, probabilities, classes
+
+
+def get_group_count(df, ref, target):
+    return df.groupby([ref, target]).agg(jumlah=(target, "count")).reset_index()

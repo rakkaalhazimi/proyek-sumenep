@@ -3,9 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-from loader import load_tableau, load_features
-from infer import predict
-from plot import show_probabilities_plot
+from loader import load_tableau, load_features, load_csv
+from utils import predict, get_group_count
+from plot import show_probabilities_plot, show_pie_chart, show_multiclass_plot
 
 def view_dashboard():
     st.subheader("Dashboard")
@@ -51,3 +51,16 @@ def view_form():
             title="Probabilitas Status Kesehatan Keluarga"
         )
         st.pyplot(fig)
+
+
+def view_eda():
+    data = load_csv("sumenep/data/pispk.csv")
+    counts = data["Kesehatan Keluarga"].value_counts()
+    fig = show_pie_chart(counts)
+    st.plotly_chart(fig)
+
+    data = get_group_count(data, ref="MENGGUNAKAN KB", target="Kesehatan Keluarga")
+
+    fig = show_multiclass_plot(data, x="MENGGUNAKAN KB", y="jumlah", hue="Kesehatan Keluarga")
+    st.pyplot(fig)
+    return

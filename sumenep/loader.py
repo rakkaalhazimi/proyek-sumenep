@@ -3,6 +3,7 @@ import json
 import os
 
 import streamlit as st
+import pandas as pd
 
 import constant as c
 
@@ -29,3 +30,7 @@ def load_pipeline():
     fp = os.path.join(c.BASE_DIR, c.PIPELINE_PATH)
     pipeline = joblib.load(fp)
     return pipeline
+
+@st.cache
+def load_csv(path):
+    return pd.read_csv(path)
