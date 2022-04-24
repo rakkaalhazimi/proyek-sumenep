@@ -4,6 +4,8 @@ import plotly as py
 import plotly.graph_objs as go
 import plotly.express as px
 
+from utils import get_group_count
+
 
 def show_probabilities_plot(labels, values, title):
     # Setup figure
@@ -36,8 +38,7 @@ def show_pie_chart(counts):
         textposition ='inside', 
         textinfo='percent + label', 
         hole=0.5, 
-        marker=dict(colors = ['navy','red','orange'], 
-        line=dict(color='gold', width=2))
+        marker=dict(colors = ['navy','red','orange'], line=dict(color='white', width=3))
     )
 
     fig.update_layout(
@@ -52,7 +53,7 @@ def show_pie_chart(counts):
     return fig
 
 
-def show_multiclass_plot(df, x, y, hue=None):
+def show_multiclass_plot(df, x, y, hue):
     # Setup figure
     fig, ax = plt.subplots()
 
@@ -70,17 +71,17 @@ def show_multiclass_plot(df, x, y, hue=None):
                     size=10,
                     xytext=(0, 5), 
                     textcoords='offset points')
-
+    
     return fig
 
 
-def make_figure(df, refs, target, ncols=3):
-    fig = plt.figure(figsize = (30, 30))
-    fig.patch.set_facecolor('gold')
+def make_figure(df, refs, target):
     sns.set_style('white')
+    figs = []
 
-    nrows = len(refs) // ncols + 1
+    for ref in refs:
+        group_count_df = get_group_count(df, ref, target)
+        fig = show_multiclass_plot(df=group_count_df, x=ref, y="jumlah", hue=target)
+        figs.append(fig)
 
-    # for index, ref in enumerate(refs):
-    #     group_count_df = get_group_count(df, ref, target)
-    #     make_barplot(df=group_count_df, ref=ref, target=target, nrows=nrows, ncols=ncols, index=index + 1)
+    return figs
