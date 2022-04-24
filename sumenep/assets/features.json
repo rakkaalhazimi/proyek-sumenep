@@ -1,14 +1,1 @@
-{
-    "MENGGUNAKAN KB": ["N", "T", "Y"],
-    "PERSALINAN DI FASKES": ["N", "Y"],
-    "ASI EKSLUSIF": ["N", "Y"],
-    "IMUNISASI LENGKAP": ["N", "Y"],
-    "PEMANTAUAN PERTUMBUHAN BALITA": ["N", "T", "Y"],
-    "MINUM OBAT TB TERATUR": ["N", "T", "Y"],
-    "ART MINUM OBAT GANGGUAN JIWA BERAT TERATUR": ["N", "Y"],
-    "MINUM OBAT HIPERTENSI TERATUR": ["N", "T", "Y"],
-    "MEROKOK": ["N", "T", "Y"],
-    "TERSEDIA SARANA AIR BERSIH": ["T", "Y"],
-    "TERSEDIA JAMBAN KELUARGA": ["T", "Y"],
-    "KEPESERTAAN JKN": ["N", "T", "Y"]
-}
+{"MENGGUNAKAN KB": ["N", "T", "Y"], "PERSALINAN DI FASKES": ["N", "Y", "T"], "ASI EKSLUSIF": ["N", "Y", "T"], "IMUNISASI LENGKAP": ["N", "Y", "T"], "PEMANTAUAN PERTUMBUHAN BALITA": ["Y", "N", "T"], "MINUM OBAT HIPERTENSI TERATUR": ["N", "Y", "T"], "ART MINUM OBAT GANGGUAN JIWA BERAT TERATUR": ["N", "Y", "T"], "MEROKOK": ["Y", "T"], "TERSEDIA JAMBAN KELUARGA": ["Y", "T"], "KEPESERTAAN JKN": ["Y", "T"]}
