@@ -33,7 +33,8 @@ def view_form():
         label, prob, classes = predict(user_df)
 
         # Show Predictions Label
-        st.success(f"Terprediksi sebagai **{str(label[0])}**")
+        predicted = str(label[0])
+        st.success(f"Terprediksi sebagai **{predicted}**")
         
         # Shot Probability Plot
         fig = show_probabilities_plot(
@@ -56,6 +57,7 @@ def view_eda():
     st.plotly_chart(fig)
 
     # Show bar chart
+    label_order = ["Keluarga Sehat", "Keluarga Pra-Sehat", "Keluarga Tidak Sehat"]
     viz_data = data.drop(columns=["Kesehatan Keluarga", "Kesehatan Keluarga Label", "IKS INTI", "NAMA KK"])
-    figs = make_figure(data, refs=viz_data.columns, target="Kesehatan Keluarga")
+    figs = make_figure(data, X=viz_data.columns, y="jumlah", hue="Kesehatan Keluarga", order=label_order)
     two_side_chart(figs)

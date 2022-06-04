@@ -53,12 +53,12 @@ def show_pie_chart(counts):
     return fig
 
 
-def show_multiclass_plot(df, x, y, hue):
+def show_multiclass_plot(df, x, y, hue, order):
     # Setup figure
     fig, ax = plt.subplots()
 
     # Barplot
-    a = sns.barplot(data=df, x=x, y=y, hue=hue, palette=['red', 'navy','orange'], ax=ax)
+    a = sns.barplot(data=df, x=x, y=y, hue=hue, hue_order=order, palette=['red', 'navy','orange'], ax=ax)
     ax.set_title(x, size=14)
     ax.set(xlabel=None, ylabel=None)
     ax.legend(loc="upper right")
@@ -75,13 +75,13 @@ def show_multiclass_plot(df, x, y, hue):
     return fig
 
 
-def make_figure(df, refs, target):
+def make_figure(df, X, y, hue, order=None):
     sns.set_style('white')
     figs = []
 
-    for ref in refs:
-        group_count_df = get_group_count(df, ref, target)
-        fig = show_multiclass_plot(df=group_count_df, x=ref, y="jumlah", hue=target)
+    for x in X:
+        group_count_df = get_group_count(df, ref=x, target=hue)
+        fig = show_multiclass_plot(df=group_count_df, x=x, y=y, hue=hue, order=order)
         figs.append(fig)
 
     return figs
