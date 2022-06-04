@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import seaborn as sns
+import seaborn as sns; sns.set_style('white')
 import plotly as py
 import plotly.graph_objs as go
 import plotly.express as px
@@ -28,9 +28,9 @@ def show_probabilities_plot(labels, values, title):
     return fig
 
 
-def show_pie_chart(counts):
-    fig = px.pie(values=counts.values, 
-                 names=counts.index, 
+def show_pie_chart(values, names, colors):
+    fig = px.pie(values=values, 
+                 names=names, 
                  width=900, 
                  height=720,)
 
@@ -38,7 +38,7 @@ def show_pie_chart(counts):
         textposition ='inside', 
         textinfo='percent + label', 
         hole=0.5, 
-        marker=dict(colors = ['navy','red','orange'], line=dict(color='white', width=3))
+        marker=dict(colors=colors, line=dict(color='white', width=3))
     )
 
     fig.update_layout(
@@ -53,12 +53,12 @@ def show_pie_chart(counts):
     return fig
 
 
-def show_multiclass_plot(df, x, y, hue, order):
+def show_multiclass_plot(df, x, y, hue, order, colors=None):
     # Setup figure
     fig, ax = plt.subplots()
 
     # Barplot
-    a = sns.barplot(data=df, x=x, y=y, hue=hue, hue_order=order, palette=['red', 'navy','orange'], ax=ax)
+    a = sns.barplot(data=df, x=x, y=y, hue=hue, hue_order=order, palette=colors, ax=ax)
     ax.set_title(x, size=14)
     ax.set(xlabel=None, ylabel=None)
     ax.legend(loc="upper right")
@@ -73,15 +73,3 @@ def show_multiclass_plot(df, x, y, hue, order):
                     textcoords='offset points')
     
     return fig
-
-
-def make_figure(df, X, y, hue, order=None):
-    sns.set_style('white')
-    figs = []
-
-    for x in X:
-        group_count_df = get_group_count(df, ref=x, target=hue)
-        fig = show_multiclass_plot(df=group_count_df, x=x, y=y, hue=hue, order=order)
-        figs.append(fig)
-
-    return figs

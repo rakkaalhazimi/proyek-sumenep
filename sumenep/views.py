@@ -1,11 +1,9 @@
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import streamlit as st
 
 from loader import load_tableau, load_features, load_csv
-from utils import predict, two_side_selectboxes, two_side_chart
-from plot import show_probabilities_plot, show_pie_chart, make_figure
+from utils import predict, two_side_selectboxes, two_side_chart, get_group_count
+from plot import show_probabilities_plot, show_pie_chart, show_multiclass_plot
 
 def view_dashboard():
     st.subheader("Dashboard")
@@ -51,13 +49,32 @@ def view_eda():
     # Load data
     data = load_csv("sumenep/data/pispk.csv")
 
+    # Label data
+    label = "Kesehatan Keluarga"
+
+    # Count label values
+    counts = data[label].value_counts()
+
+    # Label name and order
+    label_cats = ["Keluarga Sehat", "Keluarga Pra-Sehat", "Keluarga Tidak Sehat"]
+    label_counts = counts.loc[label_cats]
+    label_colors = ["green", "yellow", "red"]
+
     # Show pie chart
-    counts = data["Kesehatan Keluarga"].value_counts()
-    fig = show_pie_chart(counts)
+    fig = show_pie_chart(values=label_counts, names=label_cats, colors=label_colors)
     st.plotly_chart(fig)
 
-    # Show bar chart
-    label_order = ["Keluarga Sehat", "Keluarga Pra-Sehat", "Keluarga Tidak Sehat"]
-    viz_data = data.drop(columns=["Kesehatan Keluarga", "Kesehatan Keluarga Label", "IKS INTI", "NAMA KK"])
-    figs = make_figure(data, X=viz_data.columns, y="jumlah", hue="Kesehatan Keluarga", order=label_order)
+    # Create data for bar charts
+    unused_col = ["Kesehatan Keluarga", "Kesehatan Keluarga Label", "IKS INTI", "NAMA KK"]
+    viz_data = data.drop(columns=unused_col)
+
+    # Create bar charts
+    figs = []
+    count_name = "jumlah"
+    for x in viz_data.columns:
+        group_count_df = get_group_count(data, ref=x, target=label, name=count_name)
+        fig = show_multiclass_plot(df=group_count_df, x=x, y=count_name, hue=label, colors=label_colors, order=label_cats)
+        figs.append(fig)
+    
+    # Show multiple bar charts
     two_side_chart(figs)

@@ -16,8 +16,9 @@ def predict(features):
     return label, probabilities, classes
 
 @st.cache
-def get_group_count(df, ref, target):
-    return df.groupby([ref, target]).agg(jumlah=(target, "count")).reset_index()
+def get_group_count(df, ref, target, name):
+    agg_params = {name: (target, "count")}
+    return df.groupby([ref, target]).agg(**agg_params).reset_index()
 
 
 def two_side_selectboxes(user_items):
