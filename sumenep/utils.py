@@ -1,12 +1,7 @@
 import streamlit as st
 
-from loader import load_label_encoder, load_pipeline
 
-
-def predict(features):
-    label_encoder = load_label_encoder()
-    pipeline = load_pipeline()
-    
+def predict(features, pipeline, label_encoder):
     prediction = pipeline.predict(features)
     probabilities = pipeline.predict_proba(features)
     

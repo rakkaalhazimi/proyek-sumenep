@@ -1,9 +1,9 @@
 import pandas as pd
 import streamlit as st
 
-from loader import load_tableau, load_features, load_csv
+from loader import load_tableau, load_features, load_csv, load_pipeline, load_label_encoder
 from utils import predict, two_side_selectboxes, two_side_chart, get_group_count
-from plot import show_probabilities_plot, show_pie_chart, show_multiclass_plot
+from plot import show_probabilities_plot, show_pie_chart, show_multiclass_plot, show_dt_plot
 
 def view_dashboard():
     st.subheader("Dashboard")
@@ -11,30 +11,52 @@ def view_dashboard():
     st.components.v1.html(content_tableau, width=1800, height=2200)
 
 
-def view_form():
+def view_prediction():
+
+    # Load feature, model and encoder
+    features_json = load_features()
+    pipeline = load_pipeline()
+    label_encoder = load_label_encoder()
+
+    # Tree Model View
+    st.subheader("Diagram Decision Tree")
+
+    ## Get Model
+    ohe = pipeline.named_steps["preprocessor"].named_transformers_["onehot"]
+    tree_model = pipeline.named_steps["classifier"]
+
+    ## Show Tree
+    fig = show_dt_plot(
+        model=tree_model, 
+        feature_names=ohe.get_feature_names_out(), 
+        class_names=label_encoder.classes_
+    )
+    fig.savefig("tree.png")
+    # st.pyplot(fig)
+
+    # Form View
     st.subheader("Prediksi Status Kesehatan Keluarga")
 
-    # Load features from json
-    features_json = load_features()
+    
 
-    # Create features form
+    ## Create features form
     with st.form("Feature"):
         user_inputs = two_side_selectboxes(features_json)
         is_submit = st.form_submit_button(label="Submit")
     
     if is_submit:
-        # Create new dataframe
+        ## Create new dataframe
         user_df = pd.DataFrame(user_inputs.values(), index=user_inputs.keys())
         user_df = user_df.T
 
-        # Predicts with user features
-        label, prob, classes = predict(user_df)
+        ## Predicts with user features
+        label, prob, classes = predict(user_df, pipeline, label_encoder)
 
-        # Show Predictions Label
+        ## Show Predictions Label
         predicted = str(label[0])
         st.success(f"Terprediksi sebagai **{predicted}**")
         
-        # Shot Probability Plot
+        ## Shot Probability Plot
         fig = show_probabilities_plot(
             labels=classes, 
             values=prob[0], 

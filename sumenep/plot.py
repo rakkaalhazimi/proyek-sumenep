@@ -1,10 +1,8 @@
+import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns; sns.set_style('white')
-import plotly as py
-import plotly.graph_objs as go
 import plotly.express as px
-
-from utils import get_group_count
+from sklearn.tree import plot_tree
 
 
 def show_probabilities_plot(labels, values, title):
@@ -72,4 +70,18 @@ def show_multiclass_plot(df, x, y, hue, order, colors=None):
                     xytext=(0, 5), 
                     textcoords='offset points')
     
+    return fig
+
+
+@st.cache(allow_output_mutation=True)
+def show_dt_plot(model, feature_names, class_names):
+    fig, ax = plt.subplots(figsize=(30, 30))
+    plot_tree(
+        model, 
+        feature_names=feature_names,
+        class_names=class_names,
+        filled=True,
+        max_depth=5,
+        ax=ax
+    )
     return fig
