@@ -31,7 +31,7 @@ def view_prediction():
         feature_names=ohe.get_feature_names_out(), 
         class_names=label_encoder.classes_
     )
-    fig.savefig("tree.png")
+    # fig.savefig("tree.png", dpi=100)
     # st.pyplot(fig)
 
     # Form View

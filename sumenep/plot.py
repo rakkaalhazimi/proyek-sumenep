@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns; sns.set_style('white')
 import plotly.express as px
 from sklearn.tree import plot_tree
+from dtreeviz.trees import dtreeviz 
 
 
 def show_probabilities_plot(labels, values, title):
@@ -82,6 +83,7 @@ def show_dt_plot(model, feature_names, class_names):
         class_names=class_names,
         filled=True,
         max_depth=5,
+        fontsize=12,
         ax=ax
     )
     return fig
